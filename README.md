@@ -1,6 +1,9 @@
 # Evaluador-de-Proposiciones-Logicas
-Aplicacion Rest-Api que realiza una evaluación en Logica Proposicional. Servidor en Python(Django) y cliente en Vue.js
-Realizada en Colaboración con el Profesor Carlos Loria Saenz de la Universidad Nacional de Costa Rica
+Aplicacion Rest-Api que realiza una evaluación en Logica Proposicional. Servidor en Python(Django) y cliente en Vue.js.
+
+Realizada en Colaboración con el Profesor Carlos Loria Saenz de la Universidad Nacional de Costa Rica.
+
+Se asume como átomos lógicos unicamente True, False
 # Tools para servidor y api:
 Python 3.6
 
