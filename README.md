@@ -3,6 +3,7 @@ Aplicacion Rest-Api que realiza una evaluación en Logica Proposicional. Servido
 Realizada en Colaboración con el Profesor Carlos Loria Saenz de la Universidad Nacional de Costa Rica
 # Tools para servidor y api:
 Python 3.6
+
 Activar Ambiente virtual de windows ubicado en Servidor/ProyectoParadigmas/proyecto, si es Linux realizar ambiente nuevo.
 Instalar Django(pip install django)
 Instalar RestFramework(pip install django-restframework)
