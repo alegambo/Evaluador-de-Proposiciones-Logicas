@@ -7,7 +7,7 @@ Se asume como átomos lógicos unicamente True, False
 # Tools para servidor y api:
 Python 3.6
 
-Activar Ambiente virtual de windows ubicado en Servidor/ProyectoParadigmas/proyecto, si es Linux realizar ambiente nuevo.
+Activar Ambiente virtual, se recomienda en la carpeta Servidor/ProyectoParadigmas.
 
 Instalar Django(pip install django).
 
